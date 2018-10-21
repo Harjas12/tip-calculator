@@ -31,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The presentation can be found [here](https://docs.google.com/presentation/d/1h1aoaqzR8C0g5V6Yylen6Pcn1c7D1dWPjEzOAhr7C9k/edit?usp=sharing).
 
 ## License
 
