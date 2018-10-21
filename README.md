@@ -1,5 +1,5 @@
 # Pre-work - *Tip Calculator*
- 
+
 **Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Harjas Monga**
@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 The presentation can be found [here](https://docs.google.com/presentation/d/1h1aoaqzR8C0g5V6Yylen6Pcn1c7D1dWPjEzOAhr7C9k/edit?usp=sharing).
 
 ## License
-
+ 
     Copyright [2018] [Harjas Monga]
 
     Licensed under the Apache License, Version 2.0 (the "License");
